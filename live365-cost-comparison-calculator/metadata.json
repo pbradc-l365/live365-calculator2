@@ -1,0 +1,6 @@
+{
+  "name": "Live365 Cost Comparison Calculator",
+  "description": "Interactive cost calculator comparing Live365 all-inclusive radio broadcasting pricing ($65/mo) with Radio.co and required standalone expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
