@@ -7,7 +7,7 @@ export const RADIO_CO_BASE_STARTING_PRICE = 59.0; // Radio.co baseline starting 
 export const EXPENSE_OPTIONS: ExpenseOption[] = [
   {
     id: 'base-hosting',
-    name: 'Base Audio Hosting',
+    name: 'Audio Hosting',
     category: 'hosting',
     cost: 35.0,
     description: 'Basic streaming audio server bandwidth & track storage',
@@ -34,7 +34,7 @@ export const EXPENSE_OPTIONS: ExpenseOption[] = [
     name: 'Monthly Royalty Reporting',
     category: 'reporting',
     cost: 150.0,
-    description: 'Automated performance logging & SoundExchange census filing software',
+    description: 'The time it costs you to manage mandatory reporting',
     color: '#f59e0b', // Amber / Gold
     badgeBg: 'bg-amber-500/15 text-amber-400 border-amber-500/30',
     textColor: 'text-amber-400',
